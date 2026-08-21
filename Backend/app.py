@@ -36,7 +36,7 @@ def get_db_connection():
 
 def home():
 
-    return "Backend Running Successfully 🚀"
+    return "Backend Running Successfully 🚀🚀🚀"
 
 # ================= PLACE ORDER =================
 
